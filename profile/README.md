@@ -48,9 +48,24 @@ Some are documentation to make complex concepts simple.
 
 </div>
 
+## 🧪 Lab Resources
+
+Quick-access guides and checklists from our research:
+
+### 📜 Cheatsheets
+- [Reverse Shell Reference](Cheatsheets/reverse-shells.md)
+- [Linux Privilege Escalation](Cheatsheets/linux-privesc.md)
+- [Nmap Scanning & Enumeration](Cheatsheets/nmap-cheatsheet.md)
+
+### 📚 Methodologies
+- [API Security Assessment](Methodologies/api-security.md)
+- [Web Application Pentesting](Methodologies/web-app-pentest.md)
+- [External Recon & Surface Mapping](Methodologies/external-recon.md)
+
 ## Current Focus
 
-- **[SimplySec Playbook](https://github.com/SimplySec/SimplySec-Playbook):** Building the central hub for guides, cheatsheets, and resources.
+- **[SimplySec Playbook](https://github.com/SimplySec/SimplySec-Playbook):**
+ Building the central hub for guides, cheatsheets, and resources.
 - **Recon Automation:** Creating tools to streamline initial security assessments.
 - **Educational Content:** Translating theoretical threats into actionable defenses.
 
