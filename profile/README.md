@@ -55,12 +55,20 @@ Quick-access guides and checklists from our research:
 ### 📜 Cheatsheets
 - [Reverse Shell Reference](Cheatsheets/reverse-shells.md)
 - [Linux Privilege Escalation](Cheatsheets/linux-privesc.md)
+- [Windows Privilege Escalation](Cheatsheets/windows-privesc.md)
 - [Nmap Scanning & Enumeration](Cheatsheets/nmap-cheatsheet.md)
+- [Burp Suite Quick Reference](Cheatsheets/burpsuite-cheatsheet.md)
+- [Directory Fuzzing — Gobuster & FFUF](Cheatsheets/gobuster-ffuf-cheatsheet.md)
+- [Metasploit Framework](Cheatsheets/metasploit-cheatsheet.md)
+- [SQLMap — SQL Injection](Cheatsheets/sqlmap-cheatsheet.md)
 
 ### 📚 Methodologies
 - [API Security Assessment](Methodologies/api-security.md)
 - [Web Application Pentesting](Methodologies/web-app-pentest.md)
 - [External Recon & Surface Mapping](Methodologies/external-recon.md)
+- [Active Directory Pentesting](Methodologies/active-directory-pentest.md)
+- [Network Pentesting](Methodologies/network-pentest.md)
+- [Cloud Security Assessment](Methodologies/cloud-security.md)
 
 ## Current Focus
 
